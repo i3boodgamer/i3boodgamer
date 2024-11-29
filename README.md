@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG04MXF6YzA0MHZ6aWJrcDd4ODBwM2JwdzlqazFocjY1M2E5Nzk3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/tRn5tutqd8UxLbbZ6f/giphy.gif" width="300"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaml1cjNydDFuNGVqazhzMGsxbXVxYjRrcWNqOTZoZjF5cmR4dDB5YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Tg9jENf7x11tdJnyMQ/giphy.gif" width="300"/>
 </div>
 
 ### :woman_technologist: Обо мне :
